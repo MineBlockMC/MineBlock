@@ -1,0 +1,18 @@
+{
+  "languages": [
+    {
+      "label": "中文",
+      "value": "zh_cn",
+      "path": "templates-zh.json"
+    }
+  ],
+  "packages": [
+    {
+      "language": "zh_cn",
+      "gameType": "Minecraft",
+      "description": "用于 MineBlock 的快速启动服务端",
+      "title": "MineBlock 空白服务端",
+      "image": "https://asset.mineblock.cc/images/minecraft.webp"
+    }
+  ]
+}
