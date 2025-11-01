@@ -1,4 +1,10 @@
 {
-  "languages": [],
+  "languages": [
+    {
+      "label": "中文",
+      "value": "zh_cn",
+      "path": "templates-zh.json"
+    }
+  ],
   "packages": []
 }
