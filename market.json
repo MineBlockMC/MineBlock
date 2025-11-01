@@ -6,5 +6,28 @@
       "path": "templates-zh.json"
     }
   ],
-  "packages": []
+  "packages": [
+    {
+      "language": "zh_cn",
+      "gameType": "Minecraft",
+      "description": "Minecraft 1.21.8 Purpur Quick Server Setup, High Performance, Low Resource Usage, Plugin Support, No Mod Support",
+      "title": "[PurpurMC] Minecraft 1.21.8",
+      "category": "mc-purpur",
+      "runtime": "Java 21+",
+      "hardware": "RAM 4G+",
+      "size": "55MB",
+      "remark": "Only Purpur included",
+      "targetLink": "https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.21.8-2496.jar",
+      "author": "purpurmc.org",
+      "image": "https://mcsmanager.oss-cn-guangzhou.aliyuncs.com/package-images/minecraft.webp",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.21.8-2496.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    }
+  ]
 }
