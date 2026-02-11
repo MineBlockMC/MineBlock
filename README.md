@@ -1,5 +1,5 @@
 # MineBlock
-MineBlock 是一个 Minecraft 第三方服务器。
+MineBlock 是一个 Minecraft 社区服务器，主要玩法为生存模式。此 GitHub 仓库存放 MineBlock 网站的部分静态资源。
 
 可以在游戏内输入 ```mc.mineblock.cc``` 以连接到 MineBlock 服务器
 
@@ -19,7 +19,7 @@ MineBlock 是一个 Minecraft 第三方服务器。
 ## 宣传地址
 以下是 MineBlock 的所有宣传地址：
 
-* MCBBS：https://www.mcbbs.net/thread-986074-1-1.html 
+* ~MCBBS：https://www.mcbbs.net/thread-986074-1-1.html~
 * MCMOD：https://play.mcmod.cn/sv20184296.html 
 * MineBBS：https://www.minebbs.com/threads/mineblock.4107/ 
-* 我的世界中文站（不维护）：https://www.minecraftzw.com/10118.html
+* ~我的世界中文站（不维护）：https://www.minecraftzw.com/10118.html~
